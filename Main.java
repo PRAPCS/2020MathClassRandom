@@ -26,5 +26,7 @@ class Main {
     num5 = (int) (Math.random() * 20) + 1; // returns an integer from 1 - 20
     System.out.println(num5);
 
+    System.out.println(Math.E);//Use a constant from the math class
+
   }
 }
